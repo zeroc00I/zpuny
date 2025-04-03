@@ -16,11 +16,12 @@ This tool generates **visually deceptive domain names** using Punycode/homoglyph
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourrepo/punycode-simulator.git
-cd punycode-simulator
-Requirements:
-Python 3.6+ (No external dependencies)
+git clone https://github.com/zeroc00I/zpuny.git
+cd zpuny
 ```
+
+## Requirements:
+Python 3.6+ (No external dependencies)
 
 ## 🚀 Basic Usage
 

@@ -25,7 +25,7 @@ Python 3.6+ (No external dependencies)
 ## 🚀 Basic Usage
 
 ```bash
-python pps.py example com -m 2 -p
+python puny.py example com -m 2 -p
 ```
 Output:
 Generated 18 deceptive link variations
@@ -41,7 +41,7 @@ Output saved to phishing_report.html
 
 ## ⚙️ Advanced Options
 ```bash
-python pps.py targetdomain org -m 3 -o custom_report.html
+python puny.py targetdomain org -m 3 -o custom_report.html
 ```
 
 ## Parameter	Description
